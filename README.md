@@ -15,6 +15,9 @@ The dataset comes from the UCI Machine Learning Repository:
 
 It includes transactions from a UK-based online retail store between 2009 and 2011.
 
+You can find the file in this repository as:  
+`online retail 2. copy.xlsx`
+
 ### Columns:
 - `InvoiceNo`: Unique invoice number (if starts with 'C', it was cancelled)
 - `StockCode`: Product code
